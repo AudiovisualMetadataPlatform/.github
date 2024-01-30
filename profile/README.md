@@ -1,6 +1,6 @@
 # Audiovisual Metadata Platform
 
-The Audiovisual Metadata Platform (AMP), is an open source software system, currently under development, that enables the efficient generation of metadata to support discovery and use of digitized and born-digital audio and moving image collections. The project was developed collaboratively by Indiana University Libraries, AVP, and the New York Public Library and supported by a Mellon grant. 
+The Audiovisual Metadata Platform (AMP), is an open source software system, currently under development, that enables the efficient generation of metadata to support discovery and use of digitized and born-digital audio and moving image collections. The project was developed collaboratively by Indiana University Libraries, AVP, University of Texas at Austin, and the New York Public Library and supported by grants from the [Mellon Foundation](https://www.mellon.org/).
 
 More information is available at [https://go.iu.edu/amp](https://go.iu.edu/amp). 
 
