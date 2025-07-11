@@ -4,7 +4,7 @@ The Audiovisual Metadata Platform (AMP), is an open source software system, curr
 
 More information is available at [https://go.iu.edu/amp](https://go.iu.edu/amp). 
 
-Considering trying AMP out? Our [Getting Started page](https://uisapp2.iu.edu/confluence-prd/display/AMP/Getting+Started+with+AMP) provides an overview of the project, how to install the application, and a recorded demo.
+Considering trying AMP out? Our [Getting Started page](https://github.com/AudiovisualMetadataPlatform/amp_documentation/wiki/Getting-Started-with-AMP) provides an overview of the project, how to install the application, and a recorded demo.
 
 The amp_bootsrap repository contains the step-by-step [installation instructions](https://github.com/AudiovisualMetadataPlatform/amp_bootstrap).
 
