@@ -8,6 +8,6 @@ Considering trying AMP out? Our [Getting Started page](https://github.com/Audiov
 
 The amp_bootsrap repository contains the step-by-step [installation instructions](https://github.com/AudiovisualMetadataPlatform/amp_bootstrap).
 
-## Current release: 1.0.1 (see [release notes](https://github.com/AudiovisualMetadataPlatform/.github/wiki/Release-1.0.1))
-## Past release notes
-- 1.0.0
+## Current release: 1.0.1 (see [release notes](https://github.com/AudiovisualMetadataPlatform/amp_documentation/wiki/Release-Notes-1.0.1))
+## Past [release notes](https://github.com/AudiovisualMetadataPlatform/amp_documentation/wiki/Release-Notes)
+
